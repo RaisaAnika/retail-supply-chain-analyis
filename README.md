@@ -1,4 +1,4 @@
-# retail-supply-chain-analyis
+# Retail-supply-chain-analysis
 A project to analyse end-to-end processes with a retail supply chain using SQL and Power BI
 
 The dataset (flat table) has been synthesized using the Python library called Faker.
