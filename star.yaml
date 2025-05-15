@@ -1,0 +1,11 @@
+                       customer
+                          |
+                       product
+                          |
+Warehouse --> flat order table <-- promotion
+                          |
+                       supplier
+                          |
+                       return
+                          |
+                       shipping
